@@ -1,6 +1,6 @@
 Name:		texlive-t1utils
 Version:	57972
-Release:	1
+Release:	2
 Summary:	Simple Type 1 font manipulation programs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/t1utils
